@@ -1,12 +1,7 @@
 # Оценка стоимости скрипта zabbix_monitor_component.sh для системы Zabbix 7.2.5
 
-   <video width="640" height="360" controls>
-     <source src="https://license.foxygame.net/monitoring.mp4" type="video/mp4">
-     Ваш браузер не поддерживает видео тег.
-   </video>
-
-   [Посмотреть демонстрацию](https://license.foxygame.net/monitoring.mp4)<br>
-   [Посмотреть демонстрацию (Зеркало)](https://disk.yandex.ru/i/3mgoEEfkOS-Iiw)
+[Посмотреть демонстрацию](https://license.foxygame.net/monitoring.mp4)<br>
+<a href="https://disk.yandex.ru/i/3mgoEEfkOS-Iiw" target="_blank" rel="noopener noreferrer">Посмотреть демонстрацию (Зеркало)</a>
    
 
 ## Анализ скрипта
