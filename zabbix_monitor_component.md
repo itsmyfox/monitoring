@@ -1,5 +1,10 @@
 # Оценка стоимости скрипта zabbix_monitor_component.sh для системы Zabbix 7.2.5
 
+   <video width="640" height="360" controls>
+     <source src="https://license.foxygame.net/monitoring.mp4" type="video/mp4">
+     Ваш браузер не поддерживает видео тег.
+   </video>
+
 ## Анализ скрипта
 
 Скрипт `zabbix_monitor_component.sh` представляет собой решение для настройки комплексного мониторинга системных ресурсов в Zabbix с многоуровневыми триггерами. После анализа содержимого скрипта можно выделить следующие ключевые компоненты:
