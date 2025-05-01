@@ -1,4 +1,4 @@
-# Оценка стоимости скрипта zabbix_disk_monitor_levels-full.sh
+# Оценка стоимости скрипта zabbix_monitor_component.sh
 
 ## Анализ скрипта
 
