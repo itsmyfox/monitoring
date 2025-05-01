@@ -90,7 +90,7 @@ recovery_status: true
 
 ## Мониторинг серверов и сервисов
 
-### zabbix_disk_monitor_levels-full.sh
+### zabbix_monitor_component.sh
 
 > Устанавливает триггеры на CPU, MEM, DISK, SWAP в Zabbix.
 
