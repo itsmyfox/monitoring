@@ -6,6 +6,8 @@
    </video>
 
    [Посмотреть демонстрацию](https://license.foxygame.net/monitoring.mp4)
+   [Посмотреть демонстрацию (Зеркало)](https://disk.yandex.ru/i/3mgoEEfkOS-Iiw)
+   
 
 ## Анализ скрипта
 
