@@ -1,4 +1,4 @@
-# Оценка стоимости скрипта zabbix_monitor_component.sh
+# Оценка стоимости скрипта zabbix_monitor_component.sh для системы Zabbix 7.2.5
 
 ## Анализ скрипта
 
