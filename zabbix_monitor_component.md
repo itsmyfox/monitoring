@@ -1,8 +1,8 @@
 # Оценка стоимости скрипта zabbix_monitor_component.sh для системы Zabbix 7.2.5
 
-[Посмотреть демонстрацию](https://license.foxygame.net/monitoring.mp4)<br>
+
 <a href="https://disk.yandex.ru/i/3mgoEEfkOS-Iiw" target="_blank" rel="noopener noreferrer">
-  <strong>Посмотреть демонстрацию (Зеркало)</strong> ↗️
+  <strong>Посмотреть демонстрацию</strong> ↗️
 </a>
 
 
