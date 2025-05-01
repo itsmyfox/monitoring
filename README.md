@@ -171,6 +171,10 @@ recovery_status: true
 > Отправка других уведомлений
 
 
+📄 [Полная настройка мониторинга со скидкой 20%](https://github.com/itsmyfox/monitoring/blob/main/full_install_monitoring.md)
+
+
+
 ---
 
 
