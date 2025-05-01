@@ -3,7 +3,15 @@
 [Посмотреть демонстрацию](https://license.foxygame.net/monitoring.mp4)<br>
 <a href="https://disk.yandex.ru/i/3mgoEEfkOS-Iiw" target="_blank" rel="noopener noreferrer">Посмотреть демонстрацию (Зеркало)</a>
    
-
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll('a[href*="yandex.ru"]');
+    for (var i = 0; i < links.length; i++) {
+      links[i].setAttribute('target', '_blank');
+      links[i].setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+</script>
 ## Анализ скрипта
 
 Скрипт `zabbix_monitor_component.sh` представляет собой решение для настройки комплексного мониторинга системных ресурсов в Zabbix с многоуровневыми триггерами. После анализа содержимого скрипта можно выделить следующие ключевые компоненты:
